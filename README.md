@@ -1,3 +1,6 @@
+Originally, this was from my Stackoverflow [profile](https://stackoverflow.com/users/9449426/nearhuscarl?tab=profile).
+But since it doesn't allow me to have a description longer than 3000 characters, I put all the content here now.
+
 ### List of questions to reference when marking as duplicated
 
 #### `AppBar`
