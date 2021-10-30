@@ -1,6 +1,20 @@
 Originally, this was from my Stackoverflow [profile](https://stackoverflow.com/users/9449426/nearhuscarl?tab=profile).
 But since it doesn't allow me to have a description longer than 3000 characters, I put all the content here now.
 
+### Highlighted answers
+
+Sometimes I wrote an answer that I really like, but due to the nature of Stackoverflow, a good answer is rarely visible
+unless it answers a popular question in a trending technology. That's why I compile a list of my highlighted answers
+here even though it may not be very popular on the main site.
+
+- [[Link]](https://stackoverflow.com/a/69632381/9449426) - MUI v5 @mui/material/styles vs @emotion/react
+- [[Link]](https://stackoverflow.com/a/69776626/9449426) - Antd - How to expand all tree items by default in Table with async data? `react`, `defaultValue`, `uncontrolled`
+- [[Link]](https://stackoverflow.com/a/69585506/9449426) - Open Dialog instead of Popper in desktop MUI 5 DatePicker `mui`, `datepicker`
+- [[Link]](https://stackoverflow.com/a/69073442/9449426) - Flutter: Best way to get all values in a form `flutter`, `form`
+- [[Link]](https://stackoverflow.com/a/69277573/9449426) - How to use conditional styles with MUI v5 using emotion styled
+- [[Link]](https://stackoverflow.com/a/69527990/9449426) - MUI v5: is there a performance difference between styling with system properties and sx prop?
+- [[Link]](https://stackoverflow.com/a/64073988/9449426) - ag-Grid React forgets gridApi after it has been set `react`, `stale closure`
+
 ### List of questions to reference when marking as duplicated
 
 #### `AppBar`
@@ -67,6 +81,5 @@ But since it doesn't allow me to have a description longer than 3000 characters,
 #### Material-UI v4 import path
 
 - [[Link]](https://stackoverflow.com/q/67121146/9449426) - `makeStyles` in `@material-ui/styles` vs `@material-ui/core/styles`
-
 
 <a href="https://stackoverflow.com/users/9449426/nearhuscarl"><img src="https://stackoverflow.com/users/flair/9449426.png" width="208" height="58" alt="profile for NearHuscarl at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NearHuscarl at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
