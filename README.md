@@ -10,6 +10,7 @@ here even though it may not be very popular on the main site.
 - [[Link]](https://stackoverflow.com/a/69632381/9449426) - MUI v5 @mui/material/styles vs @emotion/react
 - [[Link]](https://stackoverflow.com/a/69776626/9449426) - Antd - How to expand all tree items by default in Table with async data? `react`, `defaultValue`, `uncontrolled`
 - [[Link]](https://stackoverflow.com/a/69585506/9449426) - Open Dialog instead of Popper in desktop MUI 5 DatePicker `mui`, `datepicker`
+- [[Link]](https://stackoverflow.com/a/69697818/9449426) - MUI - Slow makeStyles if using props in methods
 - [[Link]](https://stackoverflow.com/a/69073442/9449426) - Flutter: Best way to get all values in a form `flutter`, `form`
 - [[Link]](https://stackoverflow.com/a/69277573/9449426) - How to use conditional styles with MUI v5 using emotion styled
 - [[Link]](https://stackoverflow.com/a/69527990/9449426) - MUI v5: is there a performance difference between styling with system properties and sx prop?
