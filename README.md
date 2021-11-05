@@ -15,6 +15,7 @@ here even though it may not be very popular on the main site.
 - [[Link]](https://stackoverflow.com/a/69277573/9449426) - How to use conditional styles with MUI v5 using emotion styled
 - [[Link]](https://stackoverflow.com/a/69527990/9449426) - MUI v5: is there a performance difference between styling with system properties and sx prop?
 - [[Link]](https://stackoverflow.com/a/64073988/9449426) - ag-Grid React forgets gridApi after it has been set `react`, `stale closure`
+- [[Link]](https://stackoverflow.com/a/69416366/9449426) - In MUI when do we use Input vs. TextField for building a form? `mui`
 
 ### List of questions to reference when marking as duplicated
 
