@@ -24,6 +24,10 @@ here even though it may not be very popular on the main site.
 - [[Link]](https://stackoverflow.com/a/69561562/9449426) - Max width on large screen
 - [[Link]](https://stackoverflow.com/a/69587311/9449426) - Center search bar
 
+#### `Box`
+
+- [[Link]](https://stackoverflow.com/a/69455458/9449426) - `Box` or custom components in `createTheme`
+
 #### `DataGrid`
 
 - [[Link]](https://stackoverflow.com/a/69546549/9449426) - Cell with array of options
